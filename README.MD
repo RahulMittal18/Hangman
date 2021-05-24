@@ -9,7 +9,7 @@ You can try playing the game here https://hangmanwordgame.com/
 ### SETUP THE GAME CODE.
 
   * install git
-  * `git clone https://github.com/devs-nest/hangman-test.git`
+  * `git clone https://github.com/RahulMittal18/Hangman.git`
   * `python hangman` (to run code, you would be using python3) 
 
   
@@ -19,7 +19,7 @@ You can try playing the game here https://hangmanwordgame.com/
   * open `hangman.py`
   * Read the comments inside hangman function and read the code, to understand you can also use a debugger.
 
-  ### Task 2 (LOPPING)
+  ### Task 2 (LOOPING)
   When you run this program it will only take user's input once and then will stop
   * You have to take multiple inputs from the user, use a loop for this.
   * Statements like "welcome to the game" should only be printed once, take a note of this
@@ -37,7 +37,7 @@ You can try playing the game here https://hangmanwordgame.com/
   * count number of wrong input's given by the user.
   * use it select image from the list
   * print the image on the console.
-  * Create a seperate function for this and call it from hangman
+  
   
   ### TASK 5 (AVAILABLE LETTERS)
   Availabe Letters are the letters which have not been guessed by the user,
@@ -75,7 +75,7 @@ You can try playing the game here https://hangmanwordgame.com/
   * hint should not be counted as a invalid character
   
   ### TESTING
-  * Go to Words.py and uncomment line 15 to 19 to test.
+  
   * Test your code with multiple inputs to see if it works fine
 
   
