@@ -15,7 +15,7 @@ def load_words():
 def choose_word():
     """
     word_list (list): list of words (strings)
-    this function return one random world from list
+    this function return one random word from list
     """
     word_list = load_words()
     secret_word = random.choice(word_list)
