@@ -3,7 +3,7 @@ import random
 
 def load_words():
     """
-    this function help to load more word by updating word_list (list)    
+    this function help to load more words by updating word_list (list)    
     """   
     inFile = open("words.txt", "r")
     line = inFile.read()
